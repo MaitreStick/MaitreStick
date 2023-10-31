@@ -16,15 +16,16 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.github.com/maitrestick" target="_blank" rel="noreferrer"><img align="center" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>  
+<a href="https://www.github.com/maitrestick" target="_blank" rel="noreferrer"><img align="center" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="39" height="32" /></a>  
 <a href="https://linkedin.com/in/maitrestick" target="_blank"><img align="center" 
 src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" 
 alt="maitrestick" height="26" width="30" /></a>
 <a href="https://medium.com/@mastijaci99" target="_blank">
   <img align="center" src="https://raw.githubusercontent.com/fortawesome/font-awesome/master/svgs/brands/medium-m.svg" alt="@mastijaci99" height="35" width="40" />
 </a>
-
 </p>
+
+<h3 align="left">Badges:</h3>
 
 <a href="https://github.com/maitrestick" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=maitrestick&show_icons=true&locale=en&layout=compact&theme=dark" alt="maitrestick" /></a>
 
