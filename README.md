@@ -31,4 +31,5 @@ alt="maitrestick" height="26" width="30" /></a>
 
 <a href="http://www.github.com/maitrestick"><img src="https://github-readme-stats.vercel.app/api?username=maitrestick&show_icons=true&locale=en&theme=dark" alt="maitrestick" /></a> 
 
-<a href="http://www.github.com/maitrestick"><img src="https://github-readme-streak-stats.herokuapp.com/?user=maitrestick&theme=dark" alt="maitrestick" /></a>
+<a href="https://readme-streak-stats.vercel.app/?user=maitrestick&theme=dark"><img src="https://readme-streak-stats.vercel.app/?user=maitrestick&theme=dark" alt="Contribution streak" /></a>
+
