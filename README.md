@@ -5,7 +5,7 @@
 
 - 👨‍🎓 I'm a software engineering student at **USCO University**
 
-- 👨‍💻 I’m currently learning **MEVN stack** and **React Native**
+- 👨‍💻 I’m currently learning **Vue JS** and **Supabase**
 
 - 📫 You can reach me at [mastijaci99@gmail.com](mailto:mastijaci99@gmail.com)
 
