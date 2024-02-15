@@ -27,7 +27,7 @@ alt="maitrestick" height="26" width="30" /></a>
 
 <h3 align="left">Badges:</h3>
 
-<a href="https://github.com/maitrestick" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maitrestick&langs_count=10&title_color=a855f7&text_color=ffffff&icon_color=a855f7&bg_color=0f172a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Most Used Languages" /></a>
+<a href="https://github.com/maitrestick" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maitrestick&langs_count=10&title_color=a855f7&text_color=ffffff&icon_color=a855f7&bg_color=0f172a&hide_border=true&locale=en&custom_title=Most%20%Used%20%Languages" alt="Most Used Languages" /></a>
 
 <a href="http://www.github.com/maitrestick"><img src="https://github-readme-stats.vercel.app/api?username=maitrestick&show_icons=true&locale=en&theme=dark" alt="maitrestick" /></a> 
 
