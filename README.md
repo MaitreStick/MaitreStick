@@ -1,7 +1,6 @@
 <h1 align="center">Hey there 👋 I'm Maitre Stick</h1>
 <h3 align="center">A passionate about science and technology from Colombia 🇨🇴</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=maitrestick&label=Profile%20views&color=0e75b6&style=flat" alt="maitrestick" /> </p>
 
 - 👨‍🎓 I'm a software engineering student at **USCO University**
 
