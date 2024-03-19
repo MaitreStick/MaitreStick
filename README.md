@@ -4,7 +4,7 @@
 
 - 👨‍🎓 I'm a software engineering student at **USCO University**
 
-- 👨‍💻 I’m currently learning **Vue JS**, **Supabase** and **Vercel**
+- 👨‍💻 I’m currently learning **Vue JS**, **Quasar JS**, **Supabase** and **Vercel**
 
 - 📫 You can reach me at [mastijaci99@gmail.com](mailto:mastijaci99@gmail.com)
 
