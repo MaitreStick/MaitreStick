@@ -4,7 +4,7 @@
 
 - 👨‍🎓 I'm a software engineering student at **USCO University**
 
-- 👨‍💻 I’m currently learning **Vue JS**, **React Native**, **Next JS** and **Supabase**
+- 👨‍💻 I’m currently learning **React Native** and **Postgres**
 
 - 📫 You can reach me at [mastijaci99@gmail.com](mailto:mastijaci99@gmail.com)
 
