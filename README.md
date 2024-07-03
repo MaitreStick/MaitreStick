@@ -2,7 +2,7 @@
 <h3 align="center">A passionate about science and technology from Colombia 🇨🇴</h3>
 
 
-- 👨‍🎓 I'm a software engineering student at **USCO University**
+- 👨‍🎓 I'm a software engineering student at **Surcolombiana University**
 
 - 👨‍💻 I’m currently learning **React Native** and **Postgres**
 
