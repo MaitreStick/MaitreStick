@@ -4,7 +4,7 @@
 
 - 👨‍🎓 I'm a software engineering student at **Surcolombiana University**
 
-- 👨‍💻 I’m currently learning **TypeORM**
+- 👨‍💻 I’m currently learning **TypeORM** y **Tesseract.js**
 
 - 📫 You can reach me at [mastijaci99@gmail.com](mailto:mastijaci99@gmail.com)
 
