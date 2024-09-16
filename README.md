@@ -1,12 +1,28 @@
-<h1 align="center">Hey there 👋 I'm Maitre Stick</h1>
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Pacifico&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Maitre+Stick!;" />
+</h1>
+
 <h3 align="center">A passionate about science and technology from Colombia 🇨🇴</h3>
 
 
 - 👨‍🎓 I'm a software engineering student at **Surcolombiana University**
 
-- 👨‍💻 I’m currently learning **TypeORM** y **Tesseract.js**
+- 👨‍💻 I’m currently learning **TypeORM** and **Tesseract.js**
 
 - 📫 You can reach me at [mastijaci99@gmail.com](mailto:mastijaci99@gmail.com)
+
+<br/>
+
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+
+<br/>
+
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=react,html,css,vscode,github,figma,git,blender,docker,postman,obsidian" />
+    <img src="https://skillicons.dev/icons?i=nodejs,nestjs,python,vue,javascript,typescript,firebase,mongodb,postgres" /><br>
+</div>
+
+<br/>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/> </a><a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a><a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React Native" width="40" height="40"/> </a> <a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a><a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a>  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
