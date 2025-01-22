@@ -7,7 +7,7 @@
 
 - 👨‍🎓 I'm a software engineering student at **Surcolombiana University**
 
-- 👨‍💻 I’m currently working on a price comparison app
+- 👨‍💻 I’m currently working on an occupational health company website
 
 - 📫 You can reach me at [mastijaci99@gmail.com](mailto:mastijaci99@gmail.com)
 
