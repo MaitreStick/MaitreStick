@@ -7,7 +7,7 @@
 
 - 👨‍🎓 I'm a software engineering student at **Surcolombiana University**
 
-- 👨‍💻 I’m currently learning nextJS and ThreeJS
+- 👨‍💻 I’m currently working on a personal project
 
 - 📫 You can reach me at [mastijaci99@gmail.com](mailto:mastijaci99@gmail.com)
 
